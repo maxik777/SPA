@@ -29,16 +29,16 @@
         <entry file="file://$PROJECT_DIR$/frontend/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="25" />
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/src/components/registration/FormComponent.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="301">
-              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+              <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
                 <element signature="e#2455#2461#0" expanded="true" />
@@ -48,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontend/src/components/registration/SignInComponent.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-131">
-              <caret line="6" column="108" selection-start-line="6" selection-start-column="108" selection-end-line="6" selection-end-column="108" />
+            <state relative-caret-position="216">
+              <caret line="12" column="96" selection-start-line="12" selection-start-column="96" selection-end-line="12" selection-end-column="96" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
                 <element signature="e#1909#1915#0" expanded="true" />
@@ -159,8 +159,8 @@
         <option value="$PROJECT_DIR$/frontend/src/main.js" />
         <option value="$PROJECT_DIR$/frontend/src/components/registration/SighInComponent.vue" />
         <option value="$PROJECT_DIR$/frontend/src/router/index.js" />
-        <option value="$PROJECT_DIR$/frontend/src/components/registration/SignInComponent.vue" />
         <option value="$PROJECT_DIR$/frontend/src/components/registration/FormComponent.vue" />
+        <option value="$PROJECT_DIR$/frontend/src/components/registration/SignInComponent.vue" />
       </list>
     </option>
   </component>
@@ -318,6 +318,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -362,18 +363,17 @@
       <option name="presentableId" value="Default" />
       <updated>1591804398545</updated>
       <workItem from="1591804401681" duration="707000" />
-      <workItem from="1591856281879" duration="26712000" />
+      <workItem from="1591856281879" duration="27228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27419000" />
+    <option name="totallyTimeSpent" value="27935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="990" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18249734" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18249734" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Command Line Tools Console" weight="0.32908458" />
@@ -387,7 +387,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26419467" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26419467" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -510,33 +510,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/components/registration/SignInComponent.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-131">
-          <caret line="6" column="108" selection-start-line="6" selection-start-column="108" selection-end-line="6" selection-end-column="108" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#1909#1915#0" expanded="true" />
-            <element signature="e#2451#2501#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="25" />
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/components/registration/FormComponent.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
             <element signature="e#2455#2461#0" expanded="true" />
             <element signature="e#2037#2095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/registration/SignInComponent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="96" selection-start-line="12" selection-start-column="96" selection-end-line="12" selection-end-column="96" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#1909#1915#0" expanded="true" />
+            <element signature="e#2451#2501#0" expanded="true" />
           </folding>
         </state>
       </provider>
