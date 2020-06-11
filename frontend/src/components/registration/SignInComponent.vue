@@ -6,10 +6,10 @@
                 <form @submit.prevent="submit" novalidate class="w-5/6 lg:w-1/2 mx-auto bg-yellow-300 rounded shadow">
                     <div class="py-4 px-8 text-black text-xl font-bold border-b border-grey-lighter">Sign In</div>
                     <div class="py-4 px-8">
-                        <div class="mb-4">
+                        <div class="mb-4 text-left">
                             <email-component v-model="form.email" :v="$v.form.email" />
                         </div>
-                        <div class="mb-4">
+                        <div class="mb-4 text-left">
                             <password-component v-model="form.password" :v="$v.form.password" />
                         </div>
                         <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" type="submit">

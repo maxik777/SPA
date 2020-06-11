@@ -25,6 +25,9 @@
   color: #2c3e50;
 }
 
+body{
+    background-color: bisque;
+}
 /*#nav {*/
 /*  padding: 30px;*/
 /*}*/
